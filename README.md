@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia related to floating-point precision. The `bug.jl` file contains code that exhibits unexpected behavior because of how floating-point numbers are represented and compared. The `bugSolution.jl` file offers a solution that addresses this issue.
